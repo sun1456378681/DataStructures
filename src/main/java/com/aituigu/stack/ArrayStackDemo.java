@@ -11,6 +11,7 @@ class ArrayStack {
     // 栈的大小
     private int maxSize;
     // 数组，数组模拟栈，数据就放在该数组
+
     private int[] stack;
     // top表示栈顶 初始化为-1
     private int top = -1;
